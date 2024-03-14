@@ -1,5 +1,10 @@
 # Customer_segmentation
 
+
+![image](https://github.com/Niharika-Bathula/Unsupervised-Cluster-Segmentation/assets/142409759/030222b6-8f9b-4e70-81e4-8f29e27801a4)
+
+
+
 Clustering Analysis Performed on the Customers of a Mall based on some common attributes such as salary, buying habits, age and purchasing power etc, using Machine Learning Algorithms.
 
 # Context
